@@ -1,0 +1,15 @@
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.FrmOpenTextFile.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.Properties.Resources.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.Form1.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.FormFileName.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.FrmRegistration.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading_a_File.FrmStudentRecord.resources
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\bin\Debug\Reading a File.exe.config
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\bin\Debug\Reading a File.exe
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\bin\Debug\Reading a File.pdb
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.exe
+C:\Users\Ann\Documents\Lab\Reading a File\Reading a File\Reading a File\obj\Debug\Reading a File.pdb
